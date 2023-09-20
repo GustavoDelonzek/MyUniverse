@@ -272,8 +272,7 @@ footer .nav .nav-item .nav-link:hover{
 
 .bg-noticias{
     background-image: url(imagens/fundoEstrelaRoxa.jpg);
-    background-size: cover;
-    background-position: center center; 
+    background-size: contain;
 }
 
 .card{
